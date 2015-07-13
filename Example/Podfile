@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+
+target 'AmazonProductAPI2_Tests', :exclusive => true do
+  pod "AmazonProductAPI2", :path => "../"
+
+  
+end
