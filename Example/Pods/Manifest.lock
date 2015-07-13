@@ -1,0 +1,14 @@
+PODS:
+  - AmazonProductAPI2 (0.1.0)
+
+DEPENDENCIES:
+  - AmazonProductAPI2 (from `../`)
+
+EXTERNAL SOURCES:
+  AmazonProductAPI2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AmazonProductAPI2: 8a18019cc64d563b0cd012ae8e8e7a143430501e
+
+COCOAPODS: 0.37.2

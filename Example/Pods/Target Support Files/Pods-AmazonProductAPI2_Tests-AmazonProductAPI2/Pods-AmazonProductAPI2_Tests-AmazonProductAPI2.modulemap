@@ -1,0 +1,6 @@
+framework module AmazonProductAPI2 {
+  umbrella header "Pods-AmazonProductAPI2_Tests-AmazonProductAPI2-umbrella.h"
+
+  export *
+  module * { export * }
+}
